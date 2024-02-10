@@ -1,11 +1,8 @@
 # My Portfolio Website
-Welcome to the repository for my personal portfolio website! I am a frontend developer, passionate 
-about creating engaging and interactive web experiences.
+Welcome to the repository for my personal portfolio website! I am a frontend developer, passionate about creating engaging and interactive web experiences.
 
 ## About Me
-Strong organizational and time management skills. Detail-oriented and able to handle multiple tasks 
-simultaneously. A fast learner and adaptable professional. I thrive in both independent and collaborative 
-environments. Strong analytical and problem solving skills.
+Strong organizational and time management skills. Detail-oriented and able to handle multiple tasks simultaneously. A fast learner and adaptable professional. I thrive in both independent and collaborative environments. Strong analytical and problem solving skills.
 I am specialized in the following technologies:
 - HTML5
 - CSS
@@ -21,6 +18,7 @@ I am specialized in the following technologies:
 
 ## Projects
 Here are a few projects I've worked on:
+
 1. **Laureus Website**
    - Description: Brief description of the project.
    - Technologies Used: HTML, CSS, React, Next.js, API, Axios, Strapi CMS, Material UI...
@@ -30,6 +28,10 @@ Here are a few projects I've worked on:
    - Technologies Used: React.js, Material-UI
 
 3. **Project Three**
+   - Description: Project details go here.
+   - Technologies Used: React.js, Strapi CMS
+
+4. **Project Three**
    - Description: Project details go here.
    - Technologies Used: React.js, Strapi CMS
 
