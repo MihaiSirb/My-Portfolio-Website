@@ -138,7 +138,7 @@ section {
   font-weight: 700;
   color: transparent;
   -webkit-text-stroke: 0.7px var(--main-color);
-  background-image: linear-gradient(var(--main-color), var(--main-color));
+  background-image: linear-gradient(var(--main-color), var(--bg-color));
   background-repeat: no-repeat;
   -webkit-background-clip: text;
   background-clip: text;
